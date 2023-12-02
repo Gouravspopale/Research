@@ -5,7 +5,7 @@ This is my project repository for Data visualization
 
 Check out my GitHub contribution activity over the last year!
 
-![GitHub Contributions](https://github.com/users/YOUR_USERNAME/contributions)
+![GitHub Contributions](https://github.com/users/Gouravspopale/contributions)
 
 Replace `YOUR_USERNAME` with your GitHub username in the image URL. Users who view your README will see a visual representation of your contribution activity on GitHub.
 
